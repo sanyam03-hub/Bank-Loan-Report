@@ -24,8 +24,9 @@ bank-loan/
 │   └── DTI.sql                      # Debt-to-income ratio analysis
 │
 ├── PowerBI Dashboards/
-│   └── bank loan.pbix               # Interactive Power BI dashboard
-│
+│   └── Summary_report.png, Overview_report.png, Details_report.png               # Interactive Power BI dashboard
+│   
+PowerBI dashboard: bank loan.pbix
 ├── Tests/
 │   └── test_dataframe.py            # Unit tests for data validation
 │
